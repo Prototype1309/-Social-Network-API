@@ -5,10 +5,9 @@
 MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 ## Table of Contents
-- [Usersetup](#User-setup)
-- [Demonstration Video](#Demonstration)
+- [Usersetup](#user-setup)
+- [Demonstration Video](#demonstration)
 - [Usage](#usage)
-- [Contributors](#contributors)
 - [Contact](#contact)
 
 
